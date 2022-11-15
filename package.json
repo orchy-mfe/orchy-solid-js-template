@@ -18,12 +18,13 @@
     "rollup-plugin-visualizer": "^5.8.3",
     "solid-testing-library": "^0.5.0",
     "vite": "^3.2.4",
-    "vite-plugin-qiankun": "^1.0.15",
+    "vite-plugin-css-injected-by-js": "^2.1.1",
     "vite-plugin-solid": "^2.4.0",
     "vite-plugin-solid-svg": "^0.6.0",
     "vitest": "^0.25.2"
   },
   "dependencies": {
+    "@orchy-mfe/spa-adapter": "^0.1.0",
     "@solidjs/router": "^0.5.0",
     "rxjs": "^7.5.7",
     "solid-js": "^1.6.2"
