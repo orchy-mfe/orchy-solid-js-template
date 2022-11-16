@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@orchy-mfe/spa-adapter': ^0.1.0
+  '@orchy-mfe/spa-adapter': ^0.1.1
   '@solidjs/router': ^0.5.0
   '@testing-library/jest-dom': ^5.16.5
   eslint: ^8.27.0
@@ -19,7 +19,7 @@ specifiers:
   vitest: ^0.25.2
 
 dependencies:
-  '@orchy-mfe/spa-adapter': 0.1.0
+  '@orchy-mfe/spa-adapter': 0.1.1
   '@solidjs/router': 0.5.0_solid-js@1.6.2
   rxjs: 7.5.7
   solid-js: 1.6.2
@@ -502,8 +502,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@orchy-mfe/spa-adapter/0.1.0:
-    resolution: {integrity: sha512-8cm+VyTu57KsDizbbJMQ0PwGUkyoIeXLqiB8eWAnVQV543vnqASB/qhNeJ7iZkKqoufu1GExDzqNmDKW1q98qQ==}
+  /@orchy-mfe/spa-adapter/0.1.1:
+    resolution: {integrity: sha512-W+NiBtqxXoj2ahyaFO36Qlsfm9ZKtfyRcKUEtF+R7Ri38LgBNo7WK1gMSYlTkMkZ7JpLCW9cR/VcMEMUsu+EEw==}
     dependencies:
       lit: 2.4.1
     dev: false
