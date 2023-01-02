@@ -5,7 +5,7 @@ specifiers:
   '@solidjs/router': ^0.6.0
   '@testing-library/jest-dom': ^5.16.5
   eslint: ^8.31.0
-  eslint-config-prettier: ^8.5.0
+  eslint-config-prettier: ^8.6.0
   eslint-plugin-solid: ^0.9.1
   jsdom: ^20.0.3
   rollup-plugin-visualizer: ^5.9.0
@@ -27,7 +27,7 @@ dependencies:
 devDependencies:
   '@testing-library/jest-dom': 5.16.5
   eslint: 8.31.0
-  eslint-config-prettier: 8.5.0_eslint@8.31.0
+  eslint-config-prettier: 8.6.0_eslint@8.31.0
   eslint-plugin-solid: 0.9.1_hxm4ti6flr4ebpn5txq2vx72t4
   jsdom: 20.0.3
   rollup-plugin-visualizer: 5.9.0
@@ -1449,8 +1449,8 @@ packages:
       source-map: 0.6.1
     dev: true
 
-  /eslint-config-prettier/8.5.0_eslint@8.31.0:
-    resolution: {integrity: sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==}
+  /eslint-config-prettier/8.6.0_eslint@8.31.0:
+    resolution: {integrity: sha512-bAF0eLpLVqP5oEVUFKpMA+NnRFICwn9X8B5jrR9FcqnYBuPbqWEjTEspPWMj5ye6czoSLDweCzSo3Ko7gGrZaA==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'

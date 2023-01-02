@@ -12,7 +12,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "eslint": "^8.31.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-solid": "^0.9.1",
     "jsdom": "^20.0.3",
     "rollup-plugin-visualizer": "^5.9.0",
