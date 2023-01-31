@@ -16,7 +16,7 @@
     "eslint-plugin-solid": "^0.9.4",
     "jsdom": "^21.1.0",
     "rollup-plugin-visualizer": "^5.9.0",
-    "solid-testing-library": "^0.5.0",
+    "solid-testing-library": "^0.5.1",
     "vite": "^4.0.4",
     "vite-plugin-css-injected-by-js": "^2.4.0",
     "vite-plugin-solid": "^2.5.0",
