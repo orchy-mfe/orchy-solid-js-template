@@ -12,8 +12,8 @@ dependencies:
     specifier: ^0.15.3
     version: 0.15.3(solid-js@1.9.4)
   rxjs:
-    specifier: ^7.8.1
-    version: 7.8.1
+    specifier: ^7.8.2
+    version: 7.8.2
   solid-js:
     specifier: ^1.9.4
     version: 1.9.4
@@ -2851,8 +2851,8 @@ packages:
       queue-microtask: 1.2.3
     dev: true
 
-  /rxjs@7.8.1:
-    resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
+  /rxjs@7.8.2:
+    resolution: {integrity: sha512-dhKf903U/PQZY6boNNtAGdWbG85WAbjT/1xYoZIC7FAY0yWapOBQVsVrDl58W86//e1VpMNBtRV4MaXfdMySFA==}
     dependencies:
       tslib: 2.4.0
     dev: false
